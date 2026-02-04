@@ -10,8 +10,8 @@ Fine Tune Model : https://huggingface.co/spaces/aryan14072001/cnn-rag
 
 Fine Tune + DPO : https://huggingface.co/spaces/aryan14072001/LORA-DPO-on-CNN-dataset
 
-Kaggle Notebook for Complete Code with Details :https://www.kaggle.com/code/aryanparab6876868/proper-tune-model
-
+Kaggle Notebook for Complete Code with Details :[https://www.kaggle.com/code/aryanparab6876868/proper-tune-model
+](https://www.kaggle.com/code/aryanparab6876868/proper-tune-model)
 
 
 **A fine-tuned language model that generates factual news articles from rough notes while minimizing hallucinations.**
